@@ -1,0 +1,10 @@
+*.txt
+save/
+sh/
+logs/
+*.log
+*.ipynb
+*.pyc
+*.pkl
+*.pth
+*.tar
